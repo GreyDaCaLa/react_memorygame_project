@@ -1,0 +1,19 @@
+div#GameStatusBannerCont {
+    margin: 5px 0%;
+
+
+    background-color: #3BC14A;
+
+    display: flex;
+    flex-direction: column;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: min(16px,5vw);
+
+    /* border-color: black; */
+    /* border-width: 2px; */
+    border-radius: 10px;
+    /* border-style: solid; */
+
+    
+}

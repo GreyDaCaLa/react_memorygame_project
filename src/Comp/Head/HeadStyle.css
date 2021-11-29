@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #4E6E5D;
+    color: #CFCFCF;
+
+    /* border-color: black; */
+    /* border-width: 2px; */
+    border-radius: 10px;
+    /* border-style: solid; */
+
+
+
+
+}
+
+header>h1{
+    margin: 5% 0%;
+    font-size: min(50px,12vw);
+}
+
+header>p ,header>div {
+    margin: 1% 0%;
+    font-size: min(25px,3vw);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+header>div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0% min(200px,5vw);
+    
+}
+
+
+
+
+
+/* 
+4D5057 GREYISH
+4E6E5D GREYISH GREEN
+4DA167 FADED GREEN
+3BC14A BRIGHER GREEN
+CFCFCF REG GREY FOR FONT
+ */
